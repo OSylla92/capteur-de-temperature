@@ -26,4 +26,4 @@
 ![schema : ](fritz_temp.jpg)
 
 ## Node-red
-![photo: ](node-red.jpg)
+![photo: ](node-red.png)
