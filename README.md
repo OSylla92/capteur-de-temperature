@@ -4,6 +4,6 @@
  
  ## Vidéo 
  
- [![video]](https://img.youtube.com/vi/DZRN9IsLjPY/0.jpg)](https://youtu.be/DZRN9IsLjPY)
+ [![video](https://img.youtube.com/vi/DZRN9IsLjPY/0.jpg)](https://youtu.be/DZRN9IsLjPY)
  
  
