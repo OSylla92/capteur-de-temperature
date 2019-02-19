@@ -20,7 +20,7 @@
  + Wifi
  + Adafruit MQTT
  + Adafruit Unified Sensor
- + Timerlibfritz_temp.jpg
+ + Timerlib
 
 ## **Montage**
 ![schema : ](fritz_temp.jpg)
